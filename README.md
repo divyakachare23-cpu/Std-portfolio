@@ -1,18 +1,19 @@
 # My Portfolio
 
+## Name
+Divya Kachare
+
+## Age
+17
+
+## Branch
+Mechanical Engineering
+
+## College Name
+Vishwakarma Institute of Technology (VIT), Pune
+
 ## About Me
-My name is Divya.
-I am a Mechanical Engineering student.
-
-## Education
-Bachelor of Technology in Mechanical Engineering
-
-## Skills
-- C Programming
-- Basic Python
-- Engineering Mathematics
+I am a Mechanical Engineering student interested in technology and learning new skills.
 
 ## Interests
-- Mechanical Engineering
-- Technology
-- Programming
+Mechanical Engineering, Technology, Programming, Formula 1
