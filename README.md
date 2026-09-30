@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Name
-Divya Kachare
+Divya 
 
 ## Age
 17
